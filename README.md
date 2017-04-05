@@ -40,3 +40,21 @@ https://www.linkedin.com/in/eloisaeliastran/
   	Goal: Anaconda 
   	
   	The fun part: It also installs Jupyter!
+
+
+---
+### Fundamentals
+---
+
+### Statistics
+  	Summary: Brandon Foltz explains the fundamentals of statistics like an angel.
+  	Goal: Learn your TestStatistics!
+  	
+  	The fun part: https://www.youtube.com/user/BCFoltz/playlists
+
+
+### Linear Algebra
+  	Summary: Features are multidimentional objects, Linear Algebra is fundamental to understand multidimentional concepts
+  	Goal: Dimentionality of Data
+  	
+  	The fun part: https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ/playlists
