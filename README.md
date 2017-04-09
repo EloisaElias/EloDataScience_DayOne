@@ -58,3 +58,17 @@ https://www.linkedin.com/in/eloisaeliastran/
   	Goal: Dimentionality of Data
   	
   	The fun part: https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ/playlists
+
+#### Here are some helpful datasets
+*  [Google Prediction API](https://cloud.google.com/prediction/)
+*  [University of California at Irvinemachine Learning Library](http://archive.ics.uci.edu/ml/datasets.html)
+*  [RapidMiner - Open Source Data Science](https://rapidminer.com/)
+*  [An Awesome list of public data sets](https://github.com/caesar0301/awesome-public-datasets)
+*  [Amazon Unlocked Mobile Phone Reviews  - Kaggle -](https://www.kaggle.com/PromptCloudHQ/amazon-reviews-unlocked-mobile-phones)
+*  [Mobile Phone Activity in a city](https://www.kaggle.com/marcodena/mobile-phone-activity)
+*  [Amazon Public Data Sets](https://aws.amazon.com/datasets/)
+*  [IMDB Movie Reviews Data Set](https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset)
+*  [Google Public Data Sets](https://cloud.google.com/bigquery/public-data/)
+*  [Twitter Streaming APIs](https://dev.twitter.com/streaming/overview)
+*  [Amazon Product Reviews](http://jmcauley.ucsd.edu/data/amazon/)
+*  [Kaggle Data Sets](https://www.kaggle.com/datasets)
