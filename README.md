@@ -50,14 +50,18 @@ https://www.linkedin.com/in/eloisaeliastran/
   	Summary: Brandon Foltz explains the fundamentals of statistics like an angel.
   	Goal: Learn your TestStatistics!
   	
-  	The fun part: https://www.youtube.com/user/BCFoltz/playlists
-
+  	The fun part: Brandon Foltz 
+  	
+[Statistics link](https://www.youtube.com/user/BCFoltz/playlists
+)
 
 ### Linear Algebra
   	Summary: Features are multidimentional objects, Linear Algebra is fundamental to understand multidimentional concepts
   	Goal: Dimentionality of Data
   	
-  	The fun part: https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ/playlists
+  	The fun part: Math is beautiful
+
+[Linear Algebra link](https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ/playlists)
 
 #### Here are some helpful datasets
 *  [Google Prediction API](https://cloud.google.com/prediction/)
