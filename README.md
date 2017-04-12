@@ -21,12 +21,12 @@ I would love to join a company with big data science projects and challenges.
 Please check out my Github portfolio for the data science projects I'm working on:
 
 
-https://github.com/EloisaElias
+[Eloisa - GitHub portfolio](https://github.com/EloisaElias)
 
 
 Thank you for viewing my portfolio at:
 
-https://www.linkedin.com/in/eloisaeliastran/
+[Eloisa - LinkedIn](https://www.linkedin.com/in/eloisaeliastran/)
 
 ---
 
