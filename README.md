@@ -40,6 +40,8 @@ Thank you for viewing my portfolio at:
   	Goal: Anaconda 
   	
   	The fun part: It also installs Jupyter!
+ 
+ [Anaconda by Continuum](https://www.continuum.io/why-anaconda)
 
 
 ---
