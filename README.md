@@ -79,7 +79,7 @@ Thank you for viewing my portfolio at:
 *  [Amazon Product Reviews](http://jmcauley.ucsd.edu/data/amazon/)
 *  [Kaggle Data Sets](https://www.kaggle.com/datasets)
 
-#### The most important - Communicate clealy in English.
+#### The most important - Communicate clearly in English!
 *  [English Pronunciation Pod is hosted and created by accent reduction specialist Charles Becker.](http://beckeraccentreduction.com/free-podcasts/)
 *  [Ingles Americanos - En Simples Palabras](https://www.youtube.com/watch?v=TfLdOXgQUSc&feature=c4-overview-vl&list=PLC07860E6B2530B8E)
 *  [The K Method](https://www.youtube.com/watch?v=d_SJMwlKOvQ)
