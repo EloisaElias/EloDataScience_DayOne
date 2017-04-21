@@ -28,13 +28,11 @@ Thank you for viewing my portfolio at:
 
 [Eloisa - LinkedIn](https://www.linkedin.com/in/eloisaeliastran/)
 
----
-
 
 ---
 ### Platform
 ---
----
+
 
   
 ### Anaconda
@@ -46,12 +44,10 @@ Thank you for viewing my portfolio at:
  
  [Anaconda by Continuum](https://www.continuum.io/why-anaconda)
 
-
----
 ---
 ### Fundamentals
 ---
----
+
 
 
 ### Statistics
@@ -81,9 +77,6 @@ Thank you for viewing my portfolio at:
 
 [Data Base](https://www.youtube.com/watch?v=4Z9KEBexzcM&list=PL1LIXLIF50uXWJ9alDSXClzNCMynac38g)
 
-
-
----
 ---
 
 #### Here are some helpful datasets
@@ -108,3 +101,4 @@ Thank you for viewing my portfolio at:
 *  [Ingles Americanos - En Simples Palabras](https://www.youtube.com/watch?v=TfLdOXgQUSc&feature=c4-overview-vl&list=PLC07860E6B2530B8E)
 *  [The K Method](https://www.youtube.com/watch?v=d_SJMwlKOvQ)
 *  [Learn to read the English sound](http://www.antimoon.com/how/pronunc-soundsipa.htm)
+---
