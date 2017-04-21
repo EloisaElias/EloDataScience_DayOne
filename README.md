@@ -34,19 +34,25 @@ Thank you for viewing my portfolio at:
 ---
 ### Platform
 ---
+---
+
   
 ### Anaconda
   	Summary: Anaconda rocks for instaling lost of necessary DS libraries!
   	Goal: Anaconda 
   	
   	The fun part: It also installs Jupyter!
+  	
  
  [Anaconda by Continuum](https://www.continuum.io/why-anaconda)
 
 
 ---
+---
 ### Fundamentals
 ---
+---
+
 
 ### Statistics
   	Summary: Brandon Foltz explains the fundamentals of statistics like an angel.
@@ -65,6 +71,21 @@ Thank you for viewing my portfolio at:
 
 [Linear Algebra link](https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ/playlists)
 
+### Data Base
+  	Summary: Storing data in SQL format 
+  		
+  	Goal: Learn the purpose of DMS
+  	
+  	The fun part: Let's hack the data base!
+
+
+[Data Base](https://www.youtube.com/watch?v=4Z9KEBexzcM&list=PL1LIXLIF50uXWJ9alDSXClzNCMynac38g)
+
+
+
+---
+---
+
 #### Here are some helpful datasets
 *  [Google Prediction API](https://cloud.google.com/prediction/)
 *  [University of California at Irvinemachine Learning Library](http://archive.ics.uci.edu/ml/datasets.html)
@@ -79,7 +100,10 @@ Thank you for viewing my portfolio at:
 *  [Amazon Product Reviews](http://jmcauley.ucsd.edu/data/amazon/)
 *  [Kaggle Data Sets](https://www.kaggle.com/datasets)
 
-#### The most important - Communicate clearly in English!
+---
+
+
+#### The most important! - Communicate clearly in English!
 *  [English Pronunciation Pod is hosted and created by accent reduction specialist Charles Becker.](http://beckeraccentreduction.com/free-podcasts/)
 *  [Ingles Americanos - En Simples Palabras](https://www.youtube.com/watch?v=TfLdOXgQUSc&feature=c4-overview-vl&list=PLC07860E6B2530B8E)
 *  [The K Method](https://www.youtube.com/watch?v=d_SJMwlKOvQ)
