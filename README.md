@@ -77,7 +77,12 @@ Thank you for viewing my portfolio at:
 
 [Data Base](https://www.youtube.com/watch?v=4Z9KEBexzcM&list=PL1LIXLIF50uXWJ9alDSXClzNCMynac38g)
 
-### Virtual enviroment
+### Virtual environment
+```
+cd to the directory
+source bin/activate
+deactivate
+```
 ---
 
 #### Here are some helpful datasets
