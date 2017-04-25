@@ -93,6 +93,14 @@ Thank you for viewing my portfolio at:
 *  [Amazon Product Reviews](http://jmcauley.ucsd.edu/data/amazon/)
 *  [Kaggle Data Sets](https://www.kaggle.com/datasets)
 
+
+
+---
+
+#### Tools
+[Data science quick sheets](datasciencefree.com)
+
+
 ---
 
 
