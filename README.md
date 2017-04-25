@@ -1,4 +1,4 @@
-# EloDataScience_DayOne
+## Direction over speed
 
 ---
 #### I love Data Science!
@@ -8,6 +8,21 @@ I'm a Data Scientist, and I’m passionate about using data science, programming
 I've created this repository as my personal reference. 
 
 ..for my amusement, practice and better comprehension
+
+LinkedIn portfolio at:
+
+[Eloisa - LinkedIn](https://www.linkedin.com/in/eloisaeliastran/)
+
+@eloeliasds
+
+#### T-Mobile/Amazon Big Data Hackathon Honorable Mention!
+
+Hooray! Check out my award winner hackathon project!
+
+[I was awarded the Honorable Mention for the best Big Data model presented at the event!](http://bigdatahackathon2017.tmo.io)
+
+[T-Mobile Big Data Hackathon #TMoHack ](https://www.youtube.com/watch?v=qEaGuX18sz4&feature=youtu.be)
+
        
                                                        Gracias totales
                                                             Elo
@@ -77,12 +92,6 @@ Thank you for viewing my portfolio at:
 
 [Data Base](https://www.youtube.com/watch?v=4Z9KEBexzcM&list=PL1LIXLIF50uXWJ9alDSXClzNCMynac38g)
 
-### Virtual environment
-```
-cd to the directory
-source bin/activate
-deactivate
-```
 ---
 
 #### Here are some helpful datasets
