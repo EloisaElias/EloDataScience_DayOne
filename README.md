@@ -5,15 +5,19 @@
 
 I'm a Data Scientist, and I’m passionate about using data science, programming, and statistical analysis to solve Big Data challenges and deliver valuable business insights.
 
-I've created this repository as my personal reference. 
+I've created this repository as my personal reference and for my amusement, practice and better comprehension.
 
-..for my amusement, practice and better comprehension
+I would love to join a company with big data science projects and challenges. GitHub portfolio for the data science projects I'm working on:
+
+[Eloisa - GitHub portfolio](https://github.com/EloisaElias)
 
 LinkedIn portfolio at:
 
 [Eloisa - LinkedIn](https://www.linkedin.com/in/eloisaeliastran/)
 
 @eloeliasds
+
+---
 
 #### T-Mobile/Amazon Big Data Hackathon Honorable Mention!
 
@@ -23,25 +27,15 @@ Hooray! Check out my award winner hackathon project!
 
 [T-Mobile Big Data Hackathon #TMoHack ](https://www.youtube.com/watch?v=qEaGuX18sz4&feature=youtu.be)
 
+---
+
+
        
                                                        Gracias totales
                                                             Elo
 
 
 
-
-
-I would love to join a company with big data science projects and challenges.
-
-Please check out my Github portfolio for the data science projects I'm working on:
-
-
-[Eloisa - GitHub portfolio](https://github.com/EloisaElias)
-
-
-Thank you for viewing my portfolio at:
-
-[Eloisa - LinkedIn](https://www.linkedin.com/in/eloisaeliastran/)
 
 
 ---
