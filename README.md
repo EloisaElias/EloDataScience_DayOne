@@ -1,7 +1,9 @@
-## Direction over speed
+## EloDataScience DayOne
+### @eloeliasds
 
 ---
 #### I love Data Science!
+
 
 I'm a Data Scientist, and I’m passionate about using data science, programming, and statistical analysis to solve Big Data challenges and deliver valuable business insights.
 
@@ -119,3 +121,6 @@ Hooray! Check out my award winner hackathon project!
 *  [The K Method](https://www.youtube.com/watch?v=d_SJMwlKOvQ)
 *  [Learn to read the English sound](http://www.antimoon.com/how/pronunc-soundsipa.htm)
 ---
+
+
+### Direction over speed
