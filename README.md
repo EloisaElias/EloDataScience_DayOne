@@ -1,4 +1,4 @@
-## EloDataScience DayOne
+## Eloisa - Data Scientist
 ### @eloeliasds
 
 ---
@@ -130,8 +130,7 @@ Hooray! Check out my award winner hackathon project!
        
     Be resourceful, creative and organized. And with hard work courage and conviction pursuit your dreams. 
     Education and common sense will give you direction in life. 
-    And cultivate daily and keep with you these important core values:
-    Integrity, Energy and Intelligence. 
+    And cultivate daily and keep with you these important core values: Integrity, Energy and Intelligence. 
     By Elo
 
 
