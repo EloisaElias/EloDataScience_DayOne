@@ -1,5 +1,5 @@
-## Eloisa - Data Scientist
-### @eloeliasds
+### Eloisa - Data Scientist
+#### @eloeliasds
 
 ---
 #### I love Data Science!
