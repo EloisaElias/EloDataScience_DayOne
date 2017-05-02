@@ -128,9 +128,9 @@ Hooray! Check out my award winner hackathon project!
 
 
        
-    Be resourceful, creative and organize. With courage and conviction follow your dreams. 
+    Be resourceful, creative and organized. And with hard work courage and conviction pursuit your dreams. 
     Education and common sense will give you direction in life. 
-    And above all cultivate and keep with you these important core values:
+    And cultivate daily and keep with you these important core values:
     Integrity, Energy and Intelligence. 
     By Elo
 
