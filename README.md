@@ -46,7 +46,7 @@ If you would like me to join your team, contact me at:
 
 
 ### Statistics
-  	Summary: Brandon Foltz explains the fundamentals of statistics like an angel.
+  	Summary: Brandon Foltz explains the fundamentals of statistics
   	Goal: Learn your TestStatistics!
   	
   	The fun part: Brandon Foltz 
