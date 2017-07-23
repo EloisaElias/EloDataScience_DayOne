@@ -74,7 +74,7 @@ If you would like me to join your team, contact me at:
 
 ---
 
-#### Here are some helpful datasets
+### Here are some helpful datasets
 *  [Google Prediction API](https://cloud.google.com/prediction/)
 *  [University of California at Irvinemachine Learning Library](http://archive.ics.uci.edu/ml/datasets.html)
 *  [RapidMiner - Open Source Data Science](https://rapidminer.com/)
@@ -92,14 +92,14 @@ If you would like me to join your team, contact me at:
 
 ---
 
-#### Tools
+### Tools
 [Data science quick sheets](datasciencefree.com)
 
 
 ---
 
 
-#### The most important! - Communicate clearly in English!
+### The most important! - Communicate clearly in English!
 *  [English Pronunciation Pod is hosted and created by accent reduction specialist Charles Becker.](http://beckeraccentreduction.com/free-podcasts/)
 *  [Ingles Americanos - En Simples Palabras](https://www.youtube.com/watch?v=TfLdOXgQUSc&feature=c4-overview-vl&list=PLC07860E6B2530B8E)
 *  [The K Method](https://www.youtube.com/watch?v=d_SJMwlKOvQ)
