@@ -1,35 +1,19 @@
 ### Eloisa - Data Scientist
-#### @eloeliasds
-
 ---
 #### I love Data Science!
 
 
 I'm a Data Scientist, and I’m passionate about using data science, programming, and statistical analysis to solve Big Data challenges and deliver valuable business insights.
 
-I've created this repository as my personal reference and for my amusement, practice and better comprehension.
+I've created this repository as my personal reference, amusement, practice and better comprehension.
 
-I would love to join a company with big data science projects and challenges. GitHub portfolio for the data science projects I'm working on:
+If you would like me to join your team, contact me at:
+#### [Eloisa - LinkedIn](https://www.linkedin.com/in/eloeliasds/)
+#### [Eloisa - Portfolio](https://github.com/EloisaElias/Elo_portfolio)
+#### [@PyDataSeattle](https://twitter.com/PyDataSeattle)
+#### [PyData Seattle](https://www.meetup.com/pydata_seattle)
+#### [PyLadies](https://www.meetup.com/Seattle-PyLadies)
 
-[Eloisa - GitHub portfolio](https://github.com/EloisaElias)
-
-LinkedIn portfolio at:
-
-[Eloisa - LinkedIn](https://www.linkedin.com/in/eloisaeliastran/)
-
-@eloeliasds
-
----
-
-#### T-Mobile/Amazon Big Data Hackathon Honorable Mention!
-
-Hooray! Check out my award winner hackathon project!
-
-[I was awarded the Honorable Mention for the best Big Data model presented at the event!](http://bigdatahackathon2017.tmo.io)
-
-[T-Mobile Big Data Hackathon #TMoHack ](https://www.youtube.com/watch?v=qEaGuX18sz4&feature=youtu.be)
-
----
 
 
        
