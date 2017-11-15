@@ -75,6 +75,9 @@ If you would like me to join your team, contact me at:
 ---
 
 ### Here are some helpful datasets
+
+* [AWS Public datasets](https://aws.amazon.com/datasets)
+* [SNAP graph datasets](https://snap.stanford.edu/data/index.html)
 *  [Google Prediction API](https://cloud.google.com/prediction/)
 *  [University of California at Irvinemachine Learning Library](http://archive.ics.uci.edu/ml/datasets.html)
 *  [RapidMiner - Open Source Data Science](https://rapidminer.com/)
@@ -96,26 +99,6 @@ If you would like me to join your team, contact me at:
 [Data science quick sheets](datasciencefree.com)
 
 
----
-
-
-### The most important! - Communicate clearly in English!
-*  [English Pronunciation Pod is hosted and created by accent reduction specialist Charles Becker.](http://beckeraccentreduction.com/free-podcasts/)
-*  [Ingles Americanos - En Simples Palabras](https://www.youtube.com/watch?v=TfLdOXgQUSc&feature=c4-overview-vl&list=PLC07860E6B2530B8E)
-*  [The K Method](https://www.youtube.com/watch?v=d_SJMwlKOvQ)
-*  [Learn to read the English sound](http://www.antimoon.com/how/pronunc-soundsipa.htm)
----
-
-
-### Direction over speed
-
-
-
-       
-    Be resourceful, creative and organized. And with hard work courage and conviction pursuit your dreams. 
-    Education and common sense will give you direction in life. 
-    And cultivate daily and keep with you these important core values: Integrity, Energy and Intelligence. 
-    By Elo
 
 
 
