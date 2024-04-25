@@ -10,9 +10,12 @@ I've created this repository as a personal reference, for mentoring PyLadies and
 
 Let's connect at
 #### [Elo - LinkedIn](https://www.linkedin.com/in/eloeliasds/)
-#### [@PyDataSeattle](https://twitter.com/PyDataSeattle)
-#### [PyData Seattle](https://www.meetup.com/pydata_seattle)
+#### [PyData Seattle](https://seattle.pydata.org/)
+#### [PyData Seattle meetup](https://www.meetup.com/pydata_seattle)
 #### [PyLadies](https://www.meetup.com/Seattle-PyLadies)
+#### [Seattle Spark + AI](https://www.meetup.com/seattle-spark-meetup/)
+#### [Google Developer Group - GDG Bellevue](https://www.meetup.com/bellevue-gdg/)
+
 
        
                                                        Gracias totales
