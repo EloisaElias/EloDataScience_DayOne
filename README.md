@@ -1,5 +1,5 @@
 # Eloisa Elias T 
-#### Data Scientist • Six Sigma • Open Source AI • Women Techmakers Ambassador
+### Data Scientist • Six Sigma • Open Source AI • Women Techmakers Ambassador
 
 Data Scientist, advanced statistics and optimization. Six Sigma certified, 8+ years of experience improving KPIs at Fortune 500 companies @eloeliasds
 
